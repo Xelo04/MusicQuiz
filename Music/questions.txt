@@ -1,0 +1,315 @@
+What is the year of release of "Bohemian Rhapsody"?
+1975
+1973
+1974
+1976
+What is the year of release of "Smells Like Teen Spirit"?
+1991
+1989
+1990
+1992
+What is the year of release of "Like a Virgin"?
+1984
+1982
+1983
+1985
+What is the year of release of "Billie Jean"?
+1982
+1980
+1981
+1983
+What is the year of release of "Hotel California"?
+1976
+1974
+1975
+1977
+What is the year of release of "Hey Jude"?
+1968
+1966
+1967
+1969
+What is the year of release of "Wonderwall"?
+1995
+1993
+1994
+1996
+What is the year of release of "Imagine"?
+1971
+1969
+1970
+1972
+What is the year of release of "Beat It"?
+1982
+1980
+1981
+1983
+What is the year of release of "Thriller"?
+1982
+1980
+1981
+1983
+What is the year of release of "Rolling in the Deep"?
+2010
+2008
+2009
+2011
+What is the year of release of "Single Ladies (Put a Ring on It)"?
+2008
+2006
+2007
+2009
+What is the year of release of "Shake It Off"?
+2014
+2012
+2013
+2015
+What is the year of release of "Bad Romance"?
+2009
+2007
+2008
+2010
+What is the year of release of "Uptown Funk"?
+2014
+2012
+2013
+2015
+What is the year of release of "Someone Like You"?
+2011
+2009
+2010
+2012
+What is the year of release of "Royals"?
+2013
+2011
+2012
+2014
+What is the year of release of "Happy"?
+2013
+2011
+2012
+2014
+What is the year of release of "Shape of You"?
+2017
+2015
+2016
+2018
+What is the year of release of "Despacito"?
+2017
+2015
+2016
+2018
+What is the year of release of "All of Me"?
+2013
+2011
+2012
+2014
+What is the year of release of "Chandelier"?
+2014
+2012
+2013
+2015
+Who is the author of the song "Bohemian Rhapsody"?
+Freddie Mercury
+John Lennon
+Paul McCartney
+Elton John
+Who is the author of the song "Smells Like Teen Spirit"?
+Kurt Cobain
+Eddie Vedder
+Dave Grohl
+Chris Cornell
+Who is the author of the song "Like a Virgin"?
+Billy Steinberg and Tom Kelly
+Prince
+Madonna
+Cyndi Lauper
+Who is the author of the song "Billie Jean"?
+Michael Jackson
+Prince
+Stevie Wonder
+David Bowie
+Who is the author of the song "Hotel California"?
+Don Henley and Glenn Frey
+David Gilmour and Roger Waters
+Mick Jagger and Keith Richards
+Freddie Mercury and Brian May
+Who is the author of the song "Hey Jude"?
+John Lennon and Paul McCartney
+Mick Jagger and Keith Richards
+David Gilmour and Roger Waters
+Freddie Mercury and Brian May
+Who is the author of the song "Wonderwall"?
+Noel Gallagher
+Liam Gallagher
+Kurt Cobain
+Eddie Vedder
+Who is the author of the song "Imagine"?
+John Lennon
+Paul McCartney
+George Harrison
+Ringo Starr
+Who is the author of the song "Beat It"?
+Michael Jackson
+Prince
+Stevie Wonder
+David Bowie
+Who is the author of the song "Thriller"?
+Rod Temperton
+Michael Jackson
+Quincy Jones
+Stevie Wonder
+Who is the author of the song "Rolling in the Deep"?
+Adele and Paul Epworth
+Taylor Swift
+Beyoncé
+Lady Gaga
+Who is the author of the song "Single Ladies (Put a Ring on It)"?
+Beyoncé, Terius Nash, Thaddis Harrell, and Christopher Stewart
+Rihanna
+Adele
+Katy Perry
+Who is the author of the song "Shake It Off"?
+Taylor Swift, Max Martin, and Shellback
+Adele and Paul Epworth
+Beyoncé
+Lady Gaga
+Who is the author of the song "Bad Romance"?
+Lady Gaga and RedOne
+Taylor Swift
+Adele
+Beyoncé
+Who is the author of the song "Uptown Funk"?
+Mark Ronson and Bruno Mars
+Adele and Paul Epworth
+Taylor Swift
+Lady Gaga
+Who is the author of the song "Someone Like You"?
+Adele and Dan Wilson
+Taylor Swift
+Beyoncé
+Lady Gaga
+Who is the author of the song "Royals"?
+Lorde and Joel Little
+Adele and Paul Epworth
+Taylor Swift
+Beyoncé
+Who is the author of the song "Happy"?
+Pharrell Williams
+Adele and Paul Epworth
+Taylor Swift
+Beyoncé
+Who is the author of the song "Shape of You"?
+Ed Sheeran, Steve Mac, and Johnny McDaid
+Adele and Paul Epworth
+Taylor Swift
+Beyoncé
+Who is the author of the song "Despacito"?
+Luis Fonsi and Daddy Yankee
+Adele and Paul Epworth
+Taylor Swift
+Beyoncé
+Who is the author of the song "All of Me"?
+John Legend and Toby Gad
+Adele and Paul Epworth
+Taylor Swift
+Beyoncé
+Who is the author of the song "Chandelier"?
+Sia and Jesse Shatkin
+Adele and Paul Epworth
+Taylor Swift
+Beyoncé
+What is the year of release of "Sorry"?
+2015
+2016
+2017
+2018
+What is the year of release of "Havana"?
+2017
+2016
+2018
+2019
+What is the year of release of "Old Town Road"?
+2018
+2017
+2019
+2020
+What is the year of release of "Love Yourself"?
+2015
+2016
+2017
+2018
+What is the year of release of "Blank Space"?
+2014
+2015
+2016
+2017
+Who is the author of the song "Sorry"?
+Justin Bieber
+Ed Sheeran
+Bruno Mars
+Shawn Mendes
+Who is the author of the song "Havana"?
+Camila Cabello
+Ariana Grande
+Selena Gomez
+Dua Lipa
+Who is the author of the song "Old Town Road"?
+Lil Nas X
+Post Malone
+Drake
+Travis Scott
+Who is the author of the song "Love Yourself"?
+Ed Sheeran
+Justin Bieber
+Shawn Mendes
+Charlie Puth
+Who is the author of the song "Blank Space"?
+Taylor Swift
+Adele
+Katy Perry
+Rihanna
+What is the year of release of "Can't Stop the Feeling!"?
+2015
+2016
+2017
+2018
+What is the year of release of "Shape of You"?
+2017
+2015
+2016
+2018
+What is the year of release of "Hello"?
+2014
+2015
+2016
+2017
+What is the year of release of "Perfect"?
+2016
+2017
+2018
+2019
+What is the year of release of "Sucker"?
+2018
+2019
+2020
+2021
+Who is the author of the song "Can't Stop the Feeling!"?
+Justin Timberlake
+Ed Sheeran
+Bruno Mars
+Shawn Mendes
+Who is the author of the song "Hello"?
+Adele
+Taylor Swift
+Katy Perry
+Rihanna
+Who is the author of the song "Perfect"?
+Ed Sheeran
+Justin Bieber
+Shawn Mendes
+Charlie Puth
+Who is the author of the song "Sucker"?
+Jonas Brothers
+One Direction
+Maroon 5
+Imagine Dragons
